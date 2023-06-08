@@ -1,0 +1,1 @@
+This calculator App uses a stack data strcuture to convert expressions into postfix form to calculate non-basic expressions. Also allows for the use of variables that are kept track of in a dictionary.
